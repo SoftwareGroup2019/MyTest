@@ -3,7 +3,14 @@ class A {
 
 public static void main(String[]args){
 
-echo"Hello";
+
+syso;
+
+heloo
+asljdla
+lasdjhasjkdh
+kahsdkashd
+
 
 }
 
