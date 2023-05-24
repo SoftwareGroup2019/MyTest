@@ -12,6 +12,9 @@ lasdjhasjkdh
 kahsdkashd
 
 
+echo "Hello Bray mn";
+
+
 }
 
 }
