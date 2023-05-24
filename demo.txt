@@ -19,6 +19,9 @@ Kaka amn hastama sar pe
 lo wadakay
 
 
+"shtak"
+
+
 }
 
 }
