@@ -15,6 +15,7 @@ kahsdkashd
 echo "Hello Bray mn";
 echo "done " 
 
+xoshm dawey gyanakam
 
 }
 
