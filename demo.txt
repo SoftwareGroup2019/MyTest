@@ -1,5 +1,6 @@
 class A {
 
+99999999999999999999999999999999999999999999999
 
 public static void main(String[]args){
 
@@ -20,6 +21,8 @@ lo wadakay
 
 
 "shtak"
+
+"11111111MN111111111111"
 
 
 }
